@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://creasoft-dev.gitlab.io/fundamenty/en/posts/2020-07-10-first-post/</loc>
+        <lastmod>2020-07-10T00:00:00.000Z</lastmod>
+        <changefreq></changefreq>
+    </url>
+
+    <url>
+        <loc>https://creasoft-dev.gitlab.io/fundamenty/es/posts/2020/2020-07-10-primer-articulo/</loc>
+        <lastmod>2020-07-10T00:00:00.000Z</lastmod>
+        <changefreq></changefreq>
+    </url>
+
+    <url>
+        <loc>https://creasoft-dev.gitlab.io/fundamenty/en/</loc>
+        <lastmod>2020-07-19T18:45:48.996Z</lastmod>
+        <changefreq></changefreq>
+    </url>
+
+    <url>
+        <loc>https://creasoft-dev.gitlab.io/fundamenty/en/pages/about/</loc>
+        <lastmod>2020-07-19T18:45:48.996Z</lastmod>
+        <changefreq></changefreq>
+    </url>
+
+    <url>
+        <loc>https://creasoft-dev.gitlab.io/fundamenty/en/pages/articles/</loc>
+        <lastmod>2020-07-19T18:45:48.996Z</lastmod>
+        <changefreq></changefreq>
+    </url>
+
+    <url>
+        <loc>https://creasoft-dev.gitlab.io/fundamenty/es/</loc>
+        <lastmod>2020-07-19T18:45:48.996Z</lastmod>
+        <changefreq></changefreq>
+    </url>
+
+    <url>
+        <loc>https://creasoft-dev.gitlab.io/fundamenty/es/pages/acerca/</loc>
+        <lastmod>2020-07-19T18:45:48.996Z</lastmod>
+        <changefreq></changefreq>
+    </url>
+
+    <url>
+        <loc>https://creasoft-dev.gitlab.io/fundamenty/es/pages/articulos/</loc>
+        <lastmod>2020-07-19T18:45:48.996Z</lastmod>
+        <changefreq></changefreq>
+    </url>
+
+    <url>
+        <loc>https://creasoft-dev.gitlab.io/fundamenty/</loc>
+        <lastmod>2020-07-19T18:45:49.000Z</lastmod>
+        <changefreq></changefreq>
+    </url>
+
+</urlset>
